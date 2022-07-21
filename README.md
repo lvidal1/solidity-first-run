@@ -12,7 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# Development commands
+## Development commands
 
 - Compile: `npx hardhat compile`
 - [Local] Run networks: `npx hardhat node`
