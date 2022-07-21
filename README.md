@@ -11,3 +11,9 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# Development commands
+
+- Compile: `npx hardhat compile`
+- [Local] Run networks: `npx hardhat node`
+- [Local] Deploy script: `npx hardhat run scripts/[script-name].js --network localhost`
